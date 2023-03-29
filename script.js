@@ -34,7 +34,7 @@ function getE(){
             alert(` ${'\u25CD'.repeat(17)} \u25C9 ${'\u25CD'.repeat(17)} \r\u274C Digite Valores Válidos!! \u274C`)
             location.reload();
         }else if(meses>=3600){
-            alert(`${'\u274C'.repeat(23)}${'\u274C'.repeat(5)}NIMGÉM VIVE ESTE TANTO DE ANOS!!!!!${'\u274C'.repeat(5)}\r${'\u274C'.repeat(23)}`)
+            alert(`${'\u274C'.repeat(23)}${'\u274C'.repeat(5)}NIMGÉM VIVE ESTE TANTO DE ANOS!!!${'\u274C'.repeat(5)}\r${'\u274C'.repeat(23)}`)
             location.reload();
         }else{
             return [dinheiro, juros, meses];
