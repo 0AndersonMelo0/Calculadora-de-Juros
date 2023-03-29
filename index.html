@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Juros</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .bord{
+            margin-left: 10px;
+        }
+        .bord2{
+            margin-top: -9.3px;
+            margin-left: 2px;
+            height: 26px;
+            width: 200px;
+        }
+        .tp{
+            margin-top: -1.7px;
+        }
+    </style>
+</head>
+<body id="ad">
+    <div class="calc" id="cal">
+        <div class="nom">
+            <h3>Calculadora de Juros</h3>
+        </div>
+    
+        <div class="inpt">
+            <p class="bord">Capital Inicial(R$):</p>
+            <input class="bord2" id="dinheirinho" type="number">
+            
+            <p class="bord">Taxa de Juros Mensal (%):</p>
+            <input class="bord2" id="selik" type="number">
+
+            <p class="bord">Número de Meses:</p>
+            <input class="bord2" id="meses" type="number">
+        </div>
+
+        <div class="buta">
+            <button id="bfonte" onclick="calcular(), calcular2()">Calcular</button>
+        </div>
+
+        <div class="inpt2">
+            <div id="vau1">
+                <p class="tp" style="margin-top: 13px;">Valor com Juros Simples:</p>
+                <div class="quad">
+                    <p style="margin-left: 2px;" id="ttt"></p>
+                </div>
+            </div>
+            <div id="vau2">
+                <p class="tp" style="margin-top: -10px;">Valor com Juros Compostos:</p>
+                <div class="quad">
+                    <p style="margin-left: 2px;" id="ttt2"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
