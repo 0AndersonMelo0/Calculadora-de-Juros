@@ -12,7 +12,7 @@ O Código HTML é composto por 5 principoias DIVS, em que, a DIV principal em qu
 
 A div "calc" é que um retângulo, na qual todo o contéudo do programa se localizará dentro deste mesmo espaço;
 
-![calc](https://user-images.githubusercontent.com/111611117/228691288-f0b5c0a9-a63c-4341-b3fe-ae1434797e6f.png)
+![calc div](https://user-images.githubusercontent.com/111611117/228699492-a10bf54a-1b16-443e-a816-57c025232234.png)
 
 Dentro do "calc" se localiza as DIVS:
   "nom"(nome do programa) que possui como conteúdo uma tag "h3" para o título "Calculadora de Juros"
