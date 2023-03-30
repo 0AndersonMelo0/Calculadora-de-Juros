@@ -1,7 +1,7 @@
 # Trabalho-Adeilso-Calculadora-de-Juros
 
-Trabalho bimestral do 2º Ano de informática, utilizando HTML, CSS e JavaScript.
-Participantes: Anderson Melo da Silva and Devid Saboi e Silva Filho;
+<h2>Trabalho bimestral do 2º Ano de informática, utilizando HTML, CSS e JavaScript.<br>
+Participantes: Anderson Melo da Silva and Devid Saboi e Silva Filho;</h2>
 
 Este repositório contém o desenvolvimento de um código para calcular Juros Compostos e Simples, onde é usuário entrar com o capital, a taxa de juros e o
 período em meses:
@@ -14,10 +14,10 @@ A div "calc" é que um retângulo, na qual todo o contéudo do programa se local
 
 ![calc](https://user-images.githubusercontent.com/111611117/228699601-eeaaea41-fdee-4f3c-a003-56a986768576.png)
 
-Dentro do "calc" se localiza as DIVS:
-  "nom"(nome do programa) que possui como conteúdo uma tag "h3" para o título "Calculadora de Juros"
-  "inpt" onde há mais divs para os inputs que receberam: o capital, a taxa de juros e o período em meses;
-  "buta" que nela há um button, este que tem função de chamar a funcion calcular() e calcular2() do JavaScript;
+Dentro do "calc" se localiza as DIVS:<br>
+  "nom"(nome do programa) que possui como conteúdo uma tag "h3" para o título "Calculadora de Juros"<br>
+  "inpt" onde há mais divs para os inputs que receberam: o capital, a taxa de juros e o período em meses;<br><br>
+  "buta" que nela há um button, este que tem função de chamar a funcion calcular() e calcular2() do JavaScript;<br>
   "inpt2" contém divs que formam retângulos, onde serar adicionado os resultados dos calculos;
   
  ![calc div](https://user-images.githubusercontent.com/111611117/228699579-e8b4bba9-06d8-414e-be58-e34a1c02379c.png)
