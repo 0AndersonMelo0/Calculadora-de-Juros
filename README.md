@@ -15,7 +15,7 @@ A div "calc" é que um retângulo, na qual todo o contéudo do programa se local
 ![calc](https://user-images.githubusercontent.com/111611117/228691288-f0b5c0a9-a63c-4341-b3fe-ae1434797e6f.png)
 
 Dentro do "calc" se localiza as DIVS:
-  "nom"(nome do programa) que possui como conteúdo uma tag "<h3>" para o título "Calculadora de Juros"
+  "nom"(nome do programa) que possui como conteúdo uma tag "h3" para o título "Calculadora de Juros"
   "inpt" onde há mais divs para os inputs que receberam: o capital, a taxa de juros e o período em meses;
   "buta" que nela há um button, este que tem função de chamar a funcion calcular() e calcular2() do JavaScript;
   "inpt2" contém divs que formam retângulos, onde serar adicionado os resultados dos calculos;
