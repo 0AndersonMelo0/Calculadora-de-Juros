@@ -3,6 +3,7 @@
 <h2>Trabalho bimestral do 2º Ano de informática, utilizando HTML, CSS e JavaScript.<br>
 Participantes: Anderson Melo da Silva and Devid Saboia e Silva Filho;</h2>
 
+<h4>link funcionando: https://0andersonmelo0.github.io/Calculadora-de-Juros/</h4>
 Este repositório contém o desenvolvimento de um código para calcular Juros Compostos e Simples, onde é usuário entrar com o capital, a taxa de juros e o
 período em meses:
 
